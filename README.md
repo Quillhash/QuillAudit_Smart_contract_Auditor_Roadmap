@@ -182,6 +182,11 @@ If you find anything missing or want to update existing resources, you can creat
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with Python](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 
+### 13. RWA Specialization:
+
+- **[Real World Assets (RWA) - Quillhash](https://github.com/Quillhash/Real-World-Assets-RWA)**
+
+
 ### Credits:
 
 [**Auditor Mindmap by Razzorsec**](https://github.com/razzorsec/AuditorsRoadmap)
