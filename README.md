@@ -185,7 +185,8 @@ If you find anything missing or want to update existing resources, you can creat
 ### 13. RWA Specialization:
 
 - **[Real World Assets (RWA) - Quillhash](https://github.com/Quillhash/Real-World-Assets-RWA)**
-
+- [RWA Development Handbook](https://www.quillaudits.com/research/rwa-development) — Comprehensive guide on tokenization standards, architecture, regulatory mapping, and system design.
+- [Tokenization 101](https://www.quillaudits.com/tokenization-101) — Practical guide covering asset classes, token standards, market data, and audit readiness for RWA projects.
 
 ### Credits:
 
