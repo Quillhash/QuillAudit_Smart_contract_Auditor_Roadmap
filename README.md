@@ -185,7 +185,9 @@ If you find anything missing or want to update existing resources, you can creat
 ### 13. RWA Specialization:
 
 - **[Real World Assets (RWA) - Quillhash](https://github.com/Quillhash/Real-World-Assets-RWA)**
-
+- [RWA Development Handbook](https://www.quillaudits.com/research/rwa-development): Developer-focused handbook covering the RWA ecosystem landscape, regulatory mapping (US, EU, Singapore, Hong Kong), system design (SPVs, custodians, KYC, attestations), and 20+ EVM & non-EVM tokenization standards (ERC-3643, ERC-4626, ERC-7540, ERC-7943, plus Solana, Algorand, Hedera, Cardano, Sui, and more).
+- [Tokenization 101](https://www.quillaudits.com/tokenization-101): Interactive tool that maps asset class + chain to the recommended token standard (ERC-3643, ERC-4626, ERC-7943, ERC-7518, etc.), with live RWA market data from rwa.xyz, an audit-readiness scoring quiz, and linked breakdowns of real-world incidents and build-vs-buy tradeoffs.
+- [RWA Protocol Security Score](https://www.quillaudits.com/rwa-security-score): Free self-assessment tool that scores any RWA protocol across 8 weighted risk categories (smart contract security, oracle integrity, custody, redemption/liquidity, governance, compliance, operational security, transparency) and 30+ factors, producing an A+ to F grade with an option to join the public leaderboard.
 
 ### Credits:
 
